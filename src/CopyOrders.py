@@ -1,4 +1,4 @@
-BASE_DIR = 'data\\retail_db_json'
+BASE_DIR = '../data/retail_db_json'
 table_name = 'orders'
 
 import os
